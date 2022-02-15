@@ -42,7 +42,7 @@
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                             <a class="dropdown-item" href="allpost.php">All Posts</a>
                             <a class="dropdown-item" href="addnew.php">Add New</a>
-                            <<a class="dropdown-item" href="preview.php">Preview</a>
+                            <a class="dropdown-item" href="preview.php">Preview</a>
 
                         </div>
                     </div>
