@@ -1,0 +1,8 @@
+=file untuk user=
+-di dalam folder Test Frontend dan backend- Sharing Vision terdapat file index.php
+file index php menjadi file awal untuk di buka sebagai user, untuk melakukan CRUDE di halaman index 
+bisa langsun tekan button isi berita
+---------------------------------------------------------------------------------------------
+=isi file=
+-data base berada di folder Test Frontend dan backend- Sharing Vision\assets\DB\posts.sql
+-tugas frontend dan  back end menjadi 1 web.
