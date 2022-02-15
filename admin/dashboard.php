@@ -88,9 +88,7 @@
                                             <th>
                                                 Status
                                             </th>
-                                            <th>
-                                                opsi
-                                            </th>
+                                            
                                         </thead>
                                         <tbody>
                                             <?php
@@ -106,10 +104,7 @@ while ($d = mysqli_fetch_array($data)) {
                                                 <td><?php echo $d['category']; ?></td>
                                                 <td><?php echo $d['created_date']; ?></td>
                                                 <td><?php echo $d['status']; ?></td>
-                                                <td>
-                                                    <a href="edit.php?id=<?php echo $d['id']; ?>">EDIT</a>
-                                                    <a href="hapus.php?id=<?php echo $d['id']; ?>">HAPUS</a>
-                                                </td>
+                                                
                                             </tr>
                                             <?php
 }
